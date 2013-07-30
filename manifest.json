@@ -1,0 +1,16 @@
+{
+	"name":"Coursera Shortcut",
+	"version":"0.1",
+	"manifest_version":2,
+	"description":"Coursera Shortcut for Chrome App Launcher",
+	"app":{
+		"urls":["https://www.coursera.org"],
+		"launch":{
+			"web_url":"https://www.coursera.org"
+		}
+	},
+	"icons":{
+		"16":"coursera_logo_16.png",
+		"128":"coursera_logo.png"
+	}
+}
